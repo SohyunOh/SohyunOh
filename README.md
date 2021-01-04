@@ -1,9 +1,11 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=SoHyunOh%20&fontSize=90)
 
 <!--
 **SohyunOh/SohyunOh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://github.com/kyechan99/capsule-render#wave
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 -->
+
+
+
+
