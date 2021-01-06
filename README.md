@@ -8,8 +8,6 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 - 🌱 I’m currently learning R  
   
 
@@ -20,16 +18,6 @@
 
 
 - 📖blog : https://blog.naver.com/612thgus
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -82,5 +70,3 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
