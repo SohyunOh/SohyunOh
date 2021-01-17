@@ -8,7 +8,7 @@
 
 
 ## Rapidfire  
-- 🌱 I’m currently learning R  
+- 🌱 The team project is currently in progress. 
   
 
 - 💬 Ask me about me  
