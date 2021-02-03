@@ -2,13 +2,13 @@
 
 ### Glad to see you here!  
 
-🌸This project was created to study.  
+🌸I am aiming to get a degree and get a job now.
 
 <br/>  
 
 
 ## Rapidfire  
-- 🌱 The team project is currently in progress. 
+<!-- - 🌱 The team project is currently in progress. --> 
   
 
 - 💬 Ask me about me  
