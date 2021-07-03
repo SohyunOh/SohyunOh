@@ -1,11 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=SoHyunOh%20&fontSize=90)
 
-### Glad to see you here!  
-
-🌸I am aiming to get a degree and get a job now.
-
-<br/>  
-
 
 ## Rapidfire  
 
