@@ -8,13 +8,11 @@
 
 
 ## Rapidfire  
-<!-- - 🌱 The team project is currently in progress. --> 
-  
 
 - 💬 Ask me about me  
   
 
-- 📧 email : 612thgus@gmail.com 
+- 📧 email : 612thgus@naver.com
 
 
 - 📖blog : https://blog.naver.com/612thgus
