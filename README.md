@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=320&section=header&text=SoHyun%20&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=320&section=header&text=SoHyun%20&fontSize=100)
 
 
 ## Rapidfire  
