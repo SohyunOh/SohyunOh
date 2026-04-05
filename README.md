@@ -5,11 +5,7 @@
 
 - 💬 Ask me about me  
   
-
-- 📧 email : 612thgus@naver.com
-
-
-- 📖blog : https://blog.naver.com/612thgus
+- 📧 email : 612thgus@gmail.com
 
 <br/>  
 
